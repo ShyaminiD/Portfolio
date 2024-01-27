@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { Layout, Menu } from "antd";
 import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
